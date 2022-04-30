@@ -58,13 +58,13 @@ For examples of the streamlit application in action, check out these screenshots
 
 ### App Overview 
 
-![Layout](./Images_Video/app_overview.jpeg)
+![Layout](./Images_Video/app_overview.png)
 
 ### Block Difficulty and Block Inspector Features 
-![Features](./Images_Video/block_inspector.jpeg)
+![Features](./Images_Video/block_inspector.png)
 
 ### Added Blocks and Validated Chain
-![Validate](./Images_Video/validate_chain.jpeg)
+![Validate](./Images_Video/validate_chain.png)
 
 ---
 

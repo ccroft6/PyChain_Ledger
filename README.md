@@ -37,9 +37,9 @@ To interact with this file and open your own streamlit web interface using the c
     ```
 
 Instructions for using the streamlit application:
-1. Enter values for the sender, receiver, and amount. Then click the "Add Block" button. Do this several times to store several blocks in the ledger.
-2. Verify the block contents and hashes in the Streamlit drop-down menu.
-3. Test the blockchain validation process by clicking on the "Validate Chain" button
+1. Enter values for the sender, receiver, and amount. Then click the "Add Block" button. Do this several times to store several blocks in the ledger. (You can also adjust the block difficulty if you would like. This indicates how many zeros must be at the beginning of the block hash.)
+2. Verify the block contents and hashes in the streamlit drop-down menu.
+3. Test the blockchain validation process by clicking on the "Validate Chain" button.
 
 ---
 
@@ -53,7 +53,18 @@ Instructions for using the streamlit application:
 
 ---
 
-## Results 
+## Results - Streamlit Application
+For examples of the streamlit application in action, check out these screenshots. There is also a video example in the "Images_Video" folder.
+
+### App Overview 
+
+![Layout](./Images_Video/app_overview.jpeg)
+
+### Block Difficulty and Block Inspector Features 
+![Features](./Images_Video/block_inspector.jpeg)
+
+### Added Blocks and Validated Chain
+![Validate](./Images_Video/validate_chain.jpeg)
 
 ---
 

@@ -36,11 +36,20 @@ To interact with this file and open your own streamlit web interface using the c
     streamlit run pychain.py
     ```
 
+Instructions for using the streamlit application:
+1. Enter values for the sender, receiver, and amount. Then click the "Add Block" button. Do this several times to store several blocks in the ledger.
+2. Verify the block contents and hashes in the Streamlit drop-down menu.
+3. Test the blockchain validation process by clicking on the "Validate Chain" button
+
 ---
 
 ## Methods
-1. 
-
+1. Create a data class named "Record" - include sender, receiver, and amount attributes
+2. Create a data class named "Block" - create and hash the blocks
+3. Create a data class named "PyChain" - chain the blocks together and create methods for proof of work and validating the blockchain
+4. Add the cache decorator for streamlit
+5. Add relevant user inputs to the streamlit interface 
+6. Test the PyChain Ledger by storing records on the streamlit application and testing the blockchain validation process
 
 ---
 

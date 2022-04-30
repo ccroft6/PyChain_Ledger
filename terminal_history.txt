@@ -1,0 +1,952 @@
+   50  voila web_app.ipynb
+   51  conda activate dev
+   52  voila web_app.ipynb\n
+   53  conda activate dev
+   54  jupyter lab
+   55  git clone https://github.com/ccroft6/SF_housing_rental_data.git
+   56  conda activate dev
+   57  git add san_francisco_housing.ipynb
+   58  git commit -m "Calculated and plotted housing units per year"
+   59  git push
+   60  git add san_francisco_housing.ipynb\n
+   61  git commit -m "Calculated average sales prices per square foot"
+   62  git push
+   63  git add san_francisco_housing.ipynb\n
+   64  git commit -m "Compared average sale prices by neighborhood"
+   65  git push
+   66  git add san_francisco_housing.ipynb\n
+   67  git commit -m "Build interactive neighborhood map"
+   68  git push
+   69  git add san_francisco_housing.ipynb\n
+   70  git commit -m "Compose the data story"
+   71  git push
+   72  git add Resources
+   73  git commit -m "Initial commit"
+   74  git push
+   75  git add Images
+   76  git commit -m "Initial commit"
+   77  git push
+   78  conda activate dev
+   79  jupyter lab
+   80  git clone https://github.com/ccroft6/ETF_Analyzer.git
+   81  conda activate dev
+   82  git add -A
+   83  git commit -m "Initial commit"
+   84  git push
+   85  conda activate dev
+   86  jupyter lab
+   87  conda activate dev
+   88  git add etf_analyzer.ipynb
+   89  git commit -m "Analyze PYPL ETF"
+   90  git push
+   91  git add etf_analyzer.ipynb
+   92  git commit -m "Optimize the SQL queries"
+   93  git push
+   94  git add etf_analyzer.ipynb
+   95  git commit -m "Analyze Fintech ETF portfolio"
+   96  git push
+   97  conda activate dev
+   98  jupyter lab
+   99  conda activate dev
+  100  jupyter lab
+  101  conda activate dev
+  102  jupyter lab
+  103  conda activate dev
+  104  jupyter lab
+  105  conda activate dev
+  106  jupyter lab
+  107  voila etf_analyzer.ipynb
+  108  conda activate dev
+  109  voila etf_analyzer.ipynb
+  110  conda activate dev
+  111  jupyter lab
+  112  conda activate dev
+  113  git add README.md
+  114  git commit -m "Update README"
+  115  git push
+  116  git add san_francisco_housing.ipynb
+  117  git commit -m "Cleaned code"
+  118  git push
+  119  git add san_francisco_housing.ipynb
+  120  git commit -m "Clean up comments"
+  121  git push
+  122  history 50 > terminal_history.txt\n
+  123  git add terminal_history.txt
+  124  git commit -m "Add terminal history"
+  125  git push
+  126  conda activate dev
+  127  jupyter lab
+  128  conda activate dev
+  129  voila etf_analyzer.ipynb
+  130  git add voila_web_application
+  131  git add voila_web_application
+  132  conda activate dev
+  133  git add etf_analyzer.ipynb
+  134  git commit -m "Update cumprod equation"
+  135  git push
+  136  voila etf_analyzer.ipynb
+  137  conda activate dev
+  138  git add README.md
+  139  git commit -m "Update README"
+  140  git push
+  141  git add README.md
+  142  git commit -m "Fix code example error"
+  143  git push
+  144  git add voila_web_application.mov
+  145  conda activate dev
+  146  jupyter lab
+  147  conda activate dev
+  148  jupyter lab
+  149  git add voila_web_application.mov
+  150  git commit -m "Add video example"
+  151  git push
+  152  voila etf_analyzer.ipynb
+  153  conda activate dev
+  154  voila etf_analyzer.ipynb\n
+  155  conda activate dev
+  156  git add voila_web_application.mov
+  157  git commit -m "Update web video example"
+  158  git push
+  159  git lfs install
+  160  port install git-lfs
+  161  brew install git-lfs
+  162  git lfs install
+  163  git lfs track "voila_web_application.mov"
+  164  git add .gitattributes
+  165  git add voila_web_application.mov 
+  166  git commit -m "Add large file video example"
+  167  git push
+  168  git add README.md
+  169  git commit -m "Update video example"
+  170  git push
+  171  git add README.m
+  172  git add README.md
+  173  git commit -m "Update video example"
+  174  git add README.md
+  175  git commit -m "Update video example"
+  176  git push
+  177  git lfs track "voila_web_application_1.mov"
+  178  git add .gitattributes
+  179  git add voila_web_application_1.mov
+  180  git commit -m "Add video example"
+  181  git push
+  182  git pull
+  183  git add Screenshots
+  184  git commit -m "Add screenshot examples"
+  185  git push
+  186  git add README.md
+  187  git commit -m "Add screenshot examples"
+  188  git push
+  189  git add etf_analyzer.ipynb
+  190  git commit -m "Ignore warning messages"
+  191  git push
+  192  git add README.md
+  193  git commit -m "Update path to screenshots"
+  194  git push
+  195  git add README.mf
+  196  git add REAME.md
+  197  git add README.md
+  198  git commit -m "Updateweb photo example"
+  199  git push
+  200  git pull
+  201  git add etf_analyzer.ipynb
+  202  git commit -m "Clean up code comments"
+  203  git push
+  204  git add README.md
+  205  git commit -m "Fix spacing"
+  206  git push
+  207  history 50 > terminal_history.txt
+  208  git add terminal_history.txt
+  209  git commit -m "Add terminal history"
+  210  git push
+  211  conda deactivate
+  212  conda activate dev
+  213  pip install streamlit
+  214  streamlit hello
+  215  conda activate dev
+  216  streamlit run ca_house.py
+  217  streamlit run streamlit_ca.ipynb
+  218  conda activate dev
+  219  streamlit run streamlit_ca.ipynb
+  220  streamlit run /Users/catherinecroft/opt/anaconda3/envs/dev/lib/python3.7/site-packages/ipykernel_launcher.py
+  221  streamlit hello
+  222  conda activate dev
+  223  streamlit hello
+  224  conda activate dev
+  225  jupyter lab
+  226  conda activate dev
+  227  jupyter lab
+  228  conda activate dev
+  229  conda activate dev
+  230  git clone https://github.com/VladislavGlupak/Real-Estate-Purchase-Planner.git
+  231  git checkout -b Catherine
+  232  git clone https://github.com/VladislavGlupak/Real-Estate-Purchase-Planner.git
+  233  /usr/local/bin/python3 Untitled-1
+  234  conda activate dev
+  235  git checkout -b Catherine 
+  236  git add app.py
+  237  git commit -m "Add comment"
+  238  git push
+  239  git push --set-upstream origin Catherine
+  240  conda activate dev
+  241  streamlit run ca_app.py
+  242  git log --oneline
+  243  conda activate dev
+  244  streamlit run ca_app.py
+  245  git pull
+  246  git branch start_readme
+  247  git branch -a
+  248  git checkout start_readme
+  249  git add .
+  250  git status
+  251  git status
+  252  git add .
+  253  git status
+  254  git commit -m "Started README outline"
+  255  git push
+  256   git push --set-upstream origin start_readme
+  257  git pull
+  258  conda activate dev
+  259  jupyter lab
+  260  conda activate dev
+  261  streamlit run my_app.py
+  262  streamlit run my_app.py
+  263  conda activate dev
+  264  streamlit run my_app.py
+  265  /usr/local/bin/python3 /Users/catherinecroft/Desktop/real_estate_planner/my_app.py
+  266  /usr/local/bin/python3 /Users/catherinecroft/Desktop/real_estate_planner/my_app.py
+  267  /usr/local/bin/python3 /Users/catherinecroft/Desktop/real_estate_planner/my_app.py
+  268  conda activate dev
+  269  git checkout -b downpayment
+  270  conda activate dev
+  271  streamlit run my_app.py
+  272  conda activate dev
+  273  git pull
+  274  git pull main
+  275  git branch -d downpayment
+  276  conda activate dev
+  277  git branch -d downpayment\n
+  278  git pull
+  279  git pull
+  280  conda activate dev
+  281  git branch
+  282  git commit -a
+  283  conda activate dev
+  284  git branch
+  285  git add .
+  286  git commit -m "Added down payment calculations"
+  287  git push
+  288   git push --set-upstream origin downpayment
+  289  conda deactivate
+  290  conda activate dev
+  291  jupyter lab
+  292  conda activate dev
+  293  jupyter lab
+  294  conda activate dev
+  295  git pull
+  296  jupyter lab
+  297  conda activate dev
+  298  jupyter lab
+  299  git pull
+  300  git pull
+  301  git pull
+  302  streamlit run app.py
+  303  conda activate dev
+  304  streamlit run app.py
+  305  conda activate dev
+  306  git checkout -b "Plotly_map"
+  307  conda activate dev
+  308  git pull
+  309  git status
+  310  conda activate dev
+  311  git status
+  312  git main
+  313  git checkout main
+  314  git pull
+  315  conda activate dev
+  316  git status
+  317  git pull
+  318  git stash
+  319  git checkout __pycache__/MCForecastTools.cpython-37.pyc
+  320  git reset --hard
+  321  git pull
+  322  conda activate dev
+  323  git branch -d Plotly_map
+  324  git push origin :Plotly_map
+  325  conda activate dev
+  326  git pull
+  327  conda activate dev
+  328  git status
+  329  git branch -d Plotly_map
+  330  git checkout main
+  331  git branch -d Plotly_map
+  332  git pull
+  333  conda activate dev
+  334  git pull
+  335  conda activate dev
+  336  git pull
+  337  conda activate dev
+  338  git pull
+  339  git checkout -b plot-map
+  340  pip install plotly_express==0.4.0
+  341  conda install -c plotly plotly_express==0.4.0
+  342  streamlit run app.py
+  343  conda activate dev
+  344  streamlit run app.py
+  345  conda activate dev
+  346  streamlit run app.py
+  347  /usr/local/bin/python3 /Users/catherinecroft/Desktop/Berkeley-FinTech/Projects/Real-Estate-Purchase-Planner/app.py
+  348  conda activate dev
+  349  streamlit run app.py
+  350  conda activate dev
+  351  streamlit run app.py
+  352  conda activate dev
+  353  streamlit run app.py
+  354  conda activate dev
+  355  stremlit run app.py
+  356  streamlit run app.py
+  357  conda activate dev
+  358  streamlit run app.py
+  359  conda activate dev
+  360  git pull
+  361  git checkout main
+  362  git pull
+  363  streamlit run app.py
+  364  streamlit run app.py
+  365  conda activate dev
+  366  streamlit run app.py
+  367  conda activate dev
+  368  git status
+  369  git status
+  370  git branch -d plot-map
+  371  git checkout main
+  372  git branch -d plot-map
+  373  git pull
+  374  git reset --hard
+  375  git pull
+  376  git status
+  377  git pull
+  378  conda activate dev
+  379  streamlit run app.py
+  380  git status
+  381  conda activate dev
+  382  git pull
+  383  streamlit run app.py
+  384  conda activate dev
+  385  git status
+  386  git add app.py
+  387  git commit -m "Edited spelling errors"
+  388  git push
+  389  git push --set-upstream origin edit-typos
+  390  streamlit run app.py
+  391  conda activate dev
+  392  git status
+  393  git checkout main
+  394  conda activate dev
+  395  git status
+  396  git checkout -b edit-typos
+  397  git checkout edit-typos
+  398  git status
+  399  git add app.py
+  400  git commit --amend
+  401  conda activate dev
+  402  git status
+  403  git add app.py
+  404  git commit --amend
+  405  git push origin edit-typos -f
+  406  git add README.md
+  407  git status
+  408  git add README.md
+  409  git commit -m "Edited grammar"
+  410  git push
+  411  git push --set-upstream origin readme-grammar
+  412  conda activate dev
+  413  git pull
+  414  git status
+  415  git checkout main
+  416  git pull
+  417  git status
+  418  git pull
+  419  git checkout -b readme-grammar
+  420  conda activate dev
+  421  streamlit run app.py
+  422  conda activate dev
+  423  git status
+  424  git checkout main
+  425  git pull
+  426  streamlit run app.py
+  427  conda activate dev
+  428  git pull
+  429  streamlit run app.py
+  430  conda activate dev
+  431  git checkout -b comma
+  432  streamlit run app.py
+  433  conda activate dev
+  434  streamlit run app.py
+  435  conda activate dev
+  436  git status
+  437  git add app.py
+  438  git commit -m "Updated wording on print message"
+  439  git push
+  440   git push --set-upstream origin comma
+  441  git checkout -b fix-readme
+  442  git add README.md
+  443  git commit -m "Updated streamlit links"
+  444  git add README.md
+  445  git commit -m "Updated streamlit links"
+  446  git push
+  447  git push --set-upstream origin fix-readme
+  448  conda activate dev
+  449  git status
+  450  git checkout -b edit-typos
+  451  git pull
+  452  git status
+  453  git checkout main
+  454  git pull
+  455  git checkout fix-readme
+  456  git add README.md
+  457  git commit -m "Updated links and spacing"
+  458  git push
+  459  conda activate dev
+  460  git stauts
+  461  git status
+  462  git checkout -b retry-readme
+  463  git add README.md
+  464  git commit -m "Retried adding the spacing and link changes"
+  465  git push
+  466  git push --set-upstream origin retry-readme
+  467  conda activate dev
+  468  git status
+  469  git checkout main
+  470  git pull
+  471  conda activate dev
+  472  conda list scikit-learn
+  473  conda list hvplot
+  474  conda activate dev
+  475  git pull
+  476  conda activate dev
+  477  jupyter lab
+  478  conda activate dev
+  479  jupyter lab
+  480  git pull
+  481  conda activate dev
+  482  jupyter lab
+  483  conda activate dev
+  484  jupyter lab
+  485  conda activate dev
+  486  jupyter lab
+  487  conda activate dev
+  488  jupyter lab
+  489  conda activate dev
+  490  jupyter lab
+  491  conda activate dev
+  492  jupyter lab
+  493  conda activate dev
+  494  jupyter lab
+  495  conda activate dev
+  496  git clone https://github.com/ccroft6/Crypto_Clustering_KMeans.git
+  497  conda activate dev
+  498  git add -A
+  499  git commit -m "initial commit"
+  500  git push
+  501  conda activate dev
+  502  jupyter lab
+  503  conda activate dev
+  504  git add crypto_investments.ipynb
+  505  git commit -m "Cluster original data using KMeans"
+  506  git push
+  507  git add crypto_investments.ipynb
+  508  git commit -m "Optimize clusters with PCA"
+  509  git push
+  510  git add crypto_investments.ipynb \n
+  511  conda activate dev
+  512  git add crypto_investments.ipynb
+  513  git commit -m "Create composite plot to compare original and PCA"
+  514  git push
+  515  conda activate dev
+  516  jupyter lab
+  517  git pull
+  518  conda activate dev
+  519  jupyter lab
+  520  conda activate dev
+  521  jupyter lab
+  522  conda activate dev
+  523  jupyter lab
+  524  conda activate dev
+  525  jupyter lab
+  526  git pull
+  527  conda activate dev
+  528  jupyter lab
+  529  conda activate dev
+  530  jupyter lab
+  531  conda activate dev
+  532  jupyter lab
+  533  conda activate dev
+  534  jupyter lab
+  535  conda activate dev
+  536  git add crypto_investments.ipynb
+  537  git commit -m "Update comments and responses"
+  538  git push
+  539  git add README.md
+  540  git commit -m "Add info to readme"
+  541  git push
+  542  git add README.md
+  543  git commit -m "Add image"
+  544  git push
+  545  git add K-means.png
+  546  git commit -m "Add picture"
+  547  git push
+  548  git add README.md
+  549  git commit -m "Update spacing"
+  550  git push
+  551  history 50 > terminal_history.txt
+  552  git add history 50 > terminal_history.txt
+  553  history 50 > terminal_history.txt
+  554  git add terminal_history.txt
+  555  git commit -m "Add terminal history"
+  556  git push
+  557  conda activate dev
+  558  jupyter lab
+  559  conda activate dev
+  560  conda install -c conda-forge imbalanced-learn
+  561  conda list imbalanced-learn
+  562  conda install -c conda-forge pydotplus
+  563  conda list pydotplus
+  564  conda activate dev
+  565  jupyter lab
+  566  conda activate dev
+  567  git pull
+  568  git pull
+  569  conda activate dev
+  570  git clone https://github.com/ccroft6/Forecasting_Net_Profit.git
+  571  conda activate dev
+  572  git add Resources
+  573  git commit -m "Initial commit"
+  574  git push
+  575  conda activate dev
+  576  jupyter lab
+  577  conda activate dev
+  578  git add README.md
+  579  git pull
+  580  conda activate dev
+  581  git add README.md
+  582  ls
+  583  git init
+  584  git add README.md
+  585  git commit -m "Update README.md"
+  586  git push
+  587  git remote add README.md https://github.com/ccroft6/Forecasting_Net_Profit
+  588  git push README.md
+  589  git push --set-upstream README.md master
+  590  conda activate dev
+  591  git clone https://github.com/ccroft6/Forecasting_Net_Profit.git
+  592  conda activate dev
+  593  git add README.md
+  594  git commit -m "Update README file"
+  595  git push
+  596  git add forecast.png
+  597  git commit -m "Add image"
+  598  git push
+  599  git add README.md
+  600  git commit -m "Add image example"
+  601  git push
+  602  history 50 > terminal_history.txt
+  603  git add terminal_history.txt
+  604  git commit -m "Add terminal history info"
+  605  git push
+  606  conda activate dev
+  607  jupyter lab
+  608  conda activate dev
+  609  jupyter lab
+  610  conda activate dev
+  611  jupyter lab
+  612  conda activate dev
+  613  git clone https://github.com/ccroft6/Resampling_Imbalanced_Lending_Data.git
+  614  conda activate dev
+  615  git add -A
+  616  git commit -m "Initial commit"
+  617  git push
+  618  conda activate dev
+  619  git add credit_risk_classification
+  620  git add credit_risk_resampling.ipynb
+  621  git commit -m "Create regression models and resample data"
+  622  git push
+  623  conda activate dev
+  624  jupyter lab
+  625  git pull
+  626  git pull
+  627  git pull
+  628  conda activate dev
+  629  git add
+  630  git add credit_risk_resampling.ipynb
+  631  git commit -m "Answer questions"
+  632  git push
+  633  git add README.md
+  634  git commit -m "Complete Overview of Analysis"
+  635  git push
+  636  git add README.md
+  637  git commit -m "Complete overview section"
+  638  git push
+  639  git add README.md
+  640  git commit -m "Complete Results Section:\n"
+  641  git push
+  642  git add README.md
+  643  git commit -m "Complete summary section"
+  644  git push
+  645  git add README.md
+  646  git commit -m "Edit spacing"
+  647  git push
+  648  history 50 > terminal_history.txt
+  649  git add terminal_history.txt
+  650  git commit -m "Add terminal history"
+  651  git push
+  652  conda activate dev
+  653  jupyter lab
+  654  git clone https://github.com/ccroft6/Venture_Funding_Deep_Learning.git
+  655  cd "Venture_Funding_Deep_Learning"
+  656  git add -A
+  657  git commit -m "Initial commit"
+  658  git push
+  659  conda activate dev
+  660  jupyter lab
+  661  git pull
+  662  git pull
+  663  conda activate dev
+  664  jupyter lab
+  665  conda activate dev
+  666  jupyter lab
+  667  conda activate dev
+  668  jupyter lab
+  669  conda activate dev
+  670  jupyter lab
+  671  conda activate dev
+  672  jupyter lab
+  673  conda activate dev
+  674  jupyter lab
+  675  conda activate dev
+  676  conda activate dev
+  677  git clone https://github.com/ccroft6/Machine_Learning_Trading_Bot.git
+  678  conda activate dev
+  679  git add Resources
+  680  git commit -m "Initial commit"
+  681  git push
+  682  git add machine_learning_trading_bot.ipynb
+  683  git commit -m "Initial commit"
+  684  git push
+  685  conda activate dev
+  686  git clone https://github.com/ccroft6/Venture_Funding_Deep_Learning.git
+  687  conda activate dev
+  688  git add Resources
+  689  git commit -m "Add nn models"
+  690  git push
+  691  git pull
+  692  git pull
+  693  conda activate dev
+  694  jupyter lab
+  695  git add README.md
+  696  git commit -m "Create outline"
+  697  git push
+  698  conda activate dev
+  699  git add README.md
+  700  git commit -m "Add results and conclusions"
+  701  git push
+  702  git add README.md
+  703  git commit -m "Fix spacing"
+  704  git push
+  705  git add README.md
+  706  git commit -m "Fix line spacing"
+  707  git push
+  708  git add README.md
+  709  git commit -m "Fix line space"
+  710  git push
+  711  history 50 > terminal_history.txt
+  712  git add terminal_history.txt
+  713  git commit -m "Add terminal history"
+  714  git push
+  715  conda activate dev
+  716  jupyter lab
+  717  conda activate dev
+  718  jupyter lab
+  719  conda activate dev
+  720  jupyter lab
+  721  conda activate dev
+  722  jupyter lab
+  723  git pull
+  724  conda activate dev
+  725  git add machine_learning_trading_bot.ipynb
+  726  git commit -m "Establish a baseline performance"
+  727  git push
+  728  git add README.md
+  729  git commit -m "Write intro"
+  730  git push
+  731  git add machine_learning_trading_bot.ipynb 
+  732  git commit -m "Tune baseline trading algorithm"
+  733  git push
+  734  git add machine_learning_trading_bot.ipynb 
+  735  git commit -m "Save plots to file"
+  736  git push
+  737  git add Images
+  738  git commit -m "Add plot images"
+  739  git push
+  740  conda activate dev
+  741  jupyter lab
+  742  conda activate dev
+  743  jupyter lab
+  744  conda activate dev
+  745  git add Images
+  746  git commit -m "Add more report images"
+  747  git push
+  748  git add README.md
+  749  git commit -m "Add description of analysis"
+  750  git push
+  751  git add README.md
+  752  git commit -m "Update spacing"
+  753  git push
+  754  git add README.md
+  755  git commit -m "Add results section"
+  756  git push
+  757  conda activate dev
+  758  git add README.md
+  759  git commit -m "Add plots with scale"
+  760  git push
+  761  git add Images
+  762  git commit -m "Add images with scale"
+  763  git push
+  764  git add Images
+  765  git commit -m "Update lr plot"
+  766  git push
+  767  git add README.md
+  768  git commit -m "Fix lr plot"
+  769  git push
+  770  git add Images
+  771  git commit -m "Fix lr plot"
+  772  git add Images
+  773  git commit -m "Add lr plot"
+  774  git push
+  775  conda activate dev
+  776  jupyter lab
+  777  git add Images
+  778  git commit -m "Fix lr plot"
+  779  git push
+  780  git add 
+  781  git add README.md
+  782  git commit -m "fix lr plot"
+  783  git push
+  784  git add README.md
+  785  git commit -m "Update baseline plot description"
+  786  git push
+  787  git add README.md
+  788  git commit -m "Add conclusion summary"
+  789  git push
+  790  git add Images
+  791  git commit -m "Delete irrelevant images"
+  792  git push
+  793  git add README.md
+  794  git commit -m "Fix grammar error"
+  795  git push
+  796  git add machine_learning_trading_bot1.ipynb
+  797  git commit -m "Add comment with window sizes"
+  798  git push
+  799  history 50 > terminal_history.txt
+  800  git add terminal_history.txt
+  801  conda activate deb
+  802  conda activate dev
+  803  git add README.md
+  804  git commit -m "Update results"
+  805  git push
+  806  git add terminal_history.txt
+  807  git commit -m "Add commit history"
+  808  git push
+  809  conda activate dev
+  810  jupyter lab
+  811  git pull
+  812  conda activate dev
+  813  git add Lambda
+  814  git commit -m "Initial commit"
+  815  git push
+  816  git add Test_Events
+  817  git commit -m "Initial commit"
+  818  git push
+  819  git clone https://github.com/ccroft6/Investment_Robo_Advisor.git
+  820  cd Lambda
+  821  git add Lambda
+  822  git commit -m "Add validate_data function"
+  823  git push
+  824  git add Examples
+  825  git commit -m "Add video and photo examples"
+  826  git push
+  827  git add README.md
+  828  git commit -m "Add introduction and technologies"
+  829  git push
+  830  git add README.md
+  831  git commit -m "Add bot examples"
+  832  git push
+  833  git add README.md
+  834  git commit -m "Fix spacing\n"
+  835  git push
+  836  git add README.md
+  837  git commit -m "Update spacing"
+  838  git push
+  839  history 50 > terminal_history.txt
+  840  git add terminal_history.txt
+  841  git commit -m "Add commit history"
+  842  git push
+  843  git clone https://github.com/VladislavGlupak/Real-Estate-Purchase-Planner.git 
+  844  git clone https://github.com/ccroft6/Real_Estate_Purchase_Planner.git
+  845  git add -A
+  846  git commit -m "Add project files"
+  847  git push
+  848  conda activate dev
+  849  git add movie_draft
+  850  git add .
+  851  git commit -m "Add more movie examples"
+  852  git push
+  853  conda activate dev
+  854  git add movie_draft
+  855  git add .
+  856  git commit -m "add test movie"
+  857  git push
+  858  conda activate dev
+  859  cd Desktop
+  860  git clone https://github.com/lariannrupp/Machine_Learning_Algorithmic_Trading_Bot.git
+  861  conda activate dev
+  862  git status
+  863  git pull
+  864  git checkout -b "add percent"
+  865  git checkout -b add_percent
+  866  cd streamlit.py
+  867  streamlit run streamlit.py
+  868  pip install -r requirements.txt
+  869  cat requirements.txt
+  870  streamlit run streamlit.py
+  871  git status
+  872  git add streamlit.py
+  873  git commit -m "Add percentage columns"
+  874  git push
+  875  git push --set-upstream origin add_percent
+  876  git checkout main
+  877  conda activate dev
+  878  pip install streamlit
+  879  git pull
+  880  git add .
+  881  git commit -m "Move files into research folder"
+  882  git push
+  883  git add .
+  884  git commit -m "Add DS Store to gitignore"
+  885  git push
+  886  git pull
+  887  git add . 
+  888  git commit -m "Add presentation"
+  889  git push
+  890  git add .
+  891  git commit -m "Add archive folder"
+  892  git push
+  893  git checkout -b Update_readme
+  894  git status
+  895  git add README.md
+  896  git commit -m "Update data and approach sections"
+  897  git push
+  898  git push --set-upstream origin Update_readme
+  899  git add finta_helper.py
+  900  git commit -m "Fix strength spelling"
+  901  git push
+  902  git pull
+  903  git pull
+  904  conda activate dev
+  905  git status
+  906  git checkout -b requirements
+  907  git add README.md
+  908  git commit -m "Add note about installation"
+  909  git push
+  910  git push --set-upstream origin requirements
+  911  git status
+  912  git pull
+  913  git status
+  914  conda activate dev
+  915  streamlit run app.py
+  916  conda activate dev
+  917  cd Unsolved
+  918  streamlit run app.py
+  919  conda activate dev
+  920  streamlit run app.py
+  921  conda activate dev
+  922  streamlit run app.py
+  923  conda activate dev
+  924  streamlit run app.py
+  925  cd Unsolved
+  926  streamlit run app.py
+  927  streamlit run app.py
+  928  conda activate dev
+  929  streamlit run app.py
+  930  cd Unsolved
+  931  conda activate dev
+  932  streamlit run app.py
+  933  conda activate dev
+  934  git clone https://github.com/ccroft6/PyChain_Ledger.git
+  935  git add .
+  936  git commit -m "Initial commit"
+  937  git push
+  938  streamlit run app.py
+  939  conda activate dev
+  940  streamlit run app.py
+  941  streamlit run pychain.py
+  942  git add pychain.py
+  943  git commit -m "Add Record class"
+  944  git push
+  945  git add README.md
+  946  git commit -m "Add photo"
+  947  git push
+  948  git add README.md
+  949  git commit -m "Fix relative directory"
+  950  git push
+  951  git add Images_Video
+  952  git commit -m "Add image folder"
+  953  git push
+  954  git add README.md
+  955  git commit -m "Update relative path"
+  956  git push
+  957  git add README.md
+  958  git commit -m "Edit relative path"
+  959  git push
+  960  git add README.md
+  961  git commit -m "Edit relative path:\n"
+  962  git push
+  963  conda activate dev
+  964  streamlit run pychain.py
+  965  git add README.md
+  966  git commit -m "Add intro, usage, technologies"
+  967  git push
+  968  git add pychain.py
+  969  git commit -m "Update input variables"
+  970  conda activate dev
+  971  git add pychain.py
+  972  git commit -m "Add methods section"
+  973  git add pychain.py
+  974  git commit -m "Clean up comments"
+  975  git add pychain.py
+  976  git commit -m "Clean up comments"
+  977  git push
+  978  git add pychain.py
+  979  git commit -m "Clean up comments"
+  980  git push
+  981  git add README.md
+  982  git commit -m "Add methods section"
+  983  git push
+  984  streamlit run pychain.py
+  985  conda activate dev
+  986  streamlit run pychain.py
+  987  conda activate dev
+  988  git add Images_Video
+  989  git commit -m "Add images and video"
+  990  git push
+  991  git add README.md
+  992  git commit -m "Add screenshots"
+  993  git push
+  994  git add pychain.py
+  995  git commit -m "final commit"
+  996  git add README.md
+  997  git commit -m "Change to png"
+  998  git push
+  999  pip install streamlit --upgrade
+ 1000  streamlit run pychain.py
+ 1001  conda activate dev
